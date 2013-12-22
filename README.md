@@ -1,0 +1,1 @@
+# Hope this will be helpful for those using the Greater Schools API
